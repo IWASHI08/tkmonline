@@ -1,1 +1,1 @@
-WSURL = 'wws://tkmninja-6a1p.onrender.com';
+WSURL = 'wss://tkmninja-6a1p.onrender.com';
